@@ -1,0 +1,5 @@
+Split,Questions
+Training,3000
+Validation,500
+Test,500
+Retrieval corpus,3553

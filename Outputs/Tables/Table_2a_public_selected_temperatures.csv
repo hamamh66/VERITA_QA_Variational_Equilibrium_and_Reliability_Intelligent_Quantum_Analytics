@@ -1,0 +1,6 @@
+Model,Selected temperature
+w/o RAG,8.0
+Sparse Only,0.5
+Dense Only,0.5
+Hybrid w/o Rerank,0.5
+VERITA-QA,0.5

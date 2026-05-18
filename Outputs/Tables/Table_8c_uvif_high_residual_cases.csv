@@ -1,0 +1,11 @@
+Question,Correct answer,Predicted answer,Correct,Confidence,Entropy,Margin,Sample free energy,Sample equilibrium residual
+What is first stage of cellular respiration?,glycolsis,electrolysis,0,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
+On what day of the cycle does ovulation usually occur?,14th,7th,0,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
+Humans are among the most versatile of mammals with what type of diet?,omnivore,herbivore,0,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
+Collateral ganglia controls organs in which cavity in the body?,abdominal,abdominal,1,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
+Ibuprofen and albuterol are examples of drugs whose _________ have different effects.,enantiomers,misnomers,0,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
+The sternocleidomastoid is the major muscle that laterally flexes and rotates what?,head,eye,0,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
+How many calories of energy does one gram of protein provide?,4,2,0,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
+In what stage of their life cycle do insects begin developing their wings?,pupa,pupal,0,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
+The stored chemical energy of trees and other plants is called what?,biomass energy,biomass energy,1,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
+In what type of animals may a body cavity be present or absent?,triploblastic,triploblastic,1,0.25,0.9999999999971146,0.0,0.3999999999981245,1.3982379281025534
